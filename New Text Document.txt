@@ -1,0 +1,2 @@
+https://www.w3schools.com/java/default.asp
+https://www.tutorialspoint.com/java/java_methods.htm
